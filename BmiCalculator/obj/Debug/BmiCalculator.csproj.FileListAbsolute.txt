@@ -1,0 +1,6 @@
+C:\Users\alvin\source\repos\BmiCalculator\BmiCalculator\bin\Debug\BmiCalculator.exe.config
+C:\Users\alvin\source\repos\BmiCalculator\BmiCalculator\bin\Debug\BmiCalculator.exe
+C:\Users\alvin\source\repos\BmiCalculator\BmiCalculator\bin\Debug\BmiCalculator.pdb
+C:\Users\alvin\source\repos\BmiCalculator\BmiCalculator\obj\Debug\BmiCalculator.exe
+C:\Users\alvin\source\repos\BmiCalculator\BmiCalculator\obj\Debug\BmiCalculator.pdb
+C:\Users\alvin\source\repos\BmiCalculator\BmiCalculator\obj\Debug\BmiCalculator.csprojAssemblyReference.cache
